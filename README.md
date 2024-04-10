@@ -39,4 +39,4 @@ Here's a quick look at our NFT marketplace in action:
 
 ## Contributing
 
-We welcome contributions from the community. If you're interested in helping improve our NFT marketplace, please take a look at our contributing guidelines. For any questions, suggestions, or discussions, feel free to open an issue or contact any of our team members directly.
+We welcome contributions from the community. If you're interested in helping improve our NFT marketplace. For any questions, suggestions, or discussions, feel free to open an issue or contact me via aayushhks03@gmail.com .
