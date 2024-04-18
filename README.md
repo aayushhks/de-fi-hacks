@@ -9,18 +9,6 @@ Welcome to our unique NFT marketplace project, developed as part of the DeFi Hac
 - **Wide Range of NFTs**: From digital art to virtual real estate, our marketplace supports a diverse array of non-fungible tokens.
 - **Community-Focused**: Built with the community in mind, our platform includes features that allow users to vote on and suggest future enhancements.
 
-## Getting Started
-
-To get started with our NFT marketplace, follow these simple steps:
-
-1. **Clone the repository**
-2. **Navigate to the project directory**
-3. **Install dependencies**
-4. **Start the development server**
-
-
-Visit `http://localhost:3000` in your browser to explore the marketplace.
-
 ## Demo
 
 Here's a quick look at our NFT marketplace in action:
